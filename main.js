@@ -23,5 +23,5 @@ image2.src = "https://www.cbc.ca/kids/images/chinaanimals_panda.jpg";
 image2.style.height = "300px";
 
 let item16 = document.querySelector('#item-16');
-item16.class = "item"
+item16.className = "item"
 item16.innerText = "> Won't get fooled again."
